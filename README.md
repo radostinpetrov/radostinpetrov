@@ -10,3 +10,5 @@ I am a MEng Graduate from Imperial College London in Computing and a Full Stack 
 - Interests in various concepts including Model Context Protocol, event-driven architectures, system design.
 
 If you want to get in touch email me at [radostin.petrov99@gmail.com](mailto:radostin.petrov99@gmail.com).
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radostinpetrov&layout=compact&langs_count=8)
